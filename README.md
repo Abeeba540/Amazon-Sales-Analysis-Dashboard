@@ -113,7 +113,7 @@ git clone https://github.com/yourusername/Amazon-Sales-Analysis.git
 ### **👩‍💻 Author**
 
 Ummu Abeeba
-📧 abeeba2430@gmail.com (mailto:abeeba2430@gmail.com)
+📧 abeeba2430@gmail.com 
 🌐 [GitHub: Abeeba540](https://github.com/Abeeba540)  
 
 💼 Aspiring Data Analyst | Excel | Power BI | Dashboard Design
